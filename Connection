@@ -1,0 +1,16 @@
+Components
+Ultrasonic Sensor (HC-SR04)
+Buzzer
+LED
+Connections
+Ultrasonic Sensor (HC-SR04)
+VCC: Connect to 5V on the Arduino.
+GND: Connect to GND on the Arduino.
+Trig: Connect to digital pin 3 on the Arduino (trigPin).
+Echo: Connect to digital pin 2 on the Arduino (echoPin).
+Buzzer
+Positive (longer leg): Connect to digital pin 10 on the Arduino (buzzer).
+Negative (shorter leg): Connect to GND on the Arduino.
+LED
+Anode (longer leg): Connect to digital pin 13 on the Arduino (ledPin) through a resistor.
+Cathode (shorter leg): Connect to GND on the Arduino.
